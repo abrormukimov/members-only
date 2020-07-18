@@ -1,6 +1,6 @@
 # Members only project
 
-In this project, we build a form using nearly-pure HTML and then using the helper methods that Rails provides.
+In this project, I build a members only project using bulma-rails and devise gem.
 
 ![alt text](app/assets/images/members.png)
 
