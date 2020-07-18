@@ -2,11 +2,6 @@
 
 In this project, we build a form using nearly-pure HTML and then using the helper methods that Rails provides.
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-
 ![alt text](app/assets/images/members.png)
 
 <br />
