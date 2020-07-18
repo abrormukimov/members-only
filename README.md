@@ -2,7 +2,7 @@
 
 In this project, we build a form using nearly-pure HTML and then using the helper methods that Rails provides.
 
-[![Contributors][contributors-shield]][https://github.com/abrormukimov/members-only/graphs/contributors]
+[![Contributors][contributors-shield]](https://github.com/abrormukimov/members-only/graphs/contributors)
 [![Forks][forks-shield]][https://github.com/abrormukimov/members-only/network/members]
 [![Issues][issues-shield]][https://github.com/abrormukimov/members-only/issues]
 
