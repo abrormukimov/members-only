@@ -2,9 +2,10 @@
 
 In this project, we build a form using nearly-pure HTML and then using the helper methods that Rails provides.
 
-[![Contributors][contributors-shield]](https://github.com/abrormukimov/members-only/graphs/contributors)
-[![Forks][forks-shield]][https://github.com/abrormukimov/members-only/network/members]
-[![Issues][issues-shield]][https://github.com/abrormukimov/members-only/issues]
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
 
 ![alt text](app/assets/images/members.png)
 
@@ -72,7 +73,7 @@ This project was built using these technologies.
 :bust_in_silhouette:
 **Author**
 
-​## Abror Mukimov
+​# Abror Mukimov
 
 - Github: [abrormukimov](https://github.com/abrormukimov)
 - Twitter: [abrormukimov](https://www.twitter.com/abrormukimov)
