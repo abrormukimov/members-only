@@ -1,0 +1,32 @@
+<div class="column horizontal-center is-half">
+  <article class="media box">
+    <figure class="media-left">
+      <article class="media box">
+        <p class="image is-64x64">
+          <%= timeline_member_gravatar(current_member) %>
+        </p>
+    </figure>
+    <div class="media-content">
+      <%= render 'posts/form' %>
+    </div>
+  </article>
+
+  <% @posts.each do |post| %>
+    <div class="box">
+      <article class="media">
+        <div class="media-left">
+          <figure class="image is-64x64">
+            <%= gravatar_image_tag(post.member.email, size: 64, alt: post.member.name) %>
+          </figure>
+        </div>
+        <div class="media-content">
+          <div class="content">
+            <strong><%= timeline_member_name(post) %></strong><br>
+            <small><%= timeline_member_username(post) %></small><br>
+            <p><%= timeline_member_post(post) %></p>
+          </div>
+        </div>
+      </article>
+    </div>
+  <% end %>
+</div>
